@@ -1,4 +1,4 @@
-# Projet SQBD
+# Projet SGBD
 
 ## MongoDB
 
@@ -25,3 +25,5 @@ Dans le répertoire du projet, le script peut être lancé à l’aide de la com
 `python3 main.py`
 
 Une fois exécuté, le script vous invite d’abord à choisir entre l’utilisation d’une instance MongoDB locale ou hébergée dans le cloud. Il affiche ensuite l’ensemble des opérations qui seront réalisées. Il suffit alors d’appuyer sur la touche Entrée pour poursuivre l’exécution.
+
+[Voir le script Python](https://github.com/khalil-gharbi-fsb/projet-sgbd/blob/main/main.py)
